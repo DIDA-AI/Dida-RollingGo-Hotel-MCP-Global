@@ -34,8 +34,8 @@ Traditional AI agents can only recommend hotels based on static training dataset
 
 ✅ **Supply Chain** — The world's Top **3** travel B2B platform, **14** years in the making, fully API-native end-to-end.
 
-✅ **Global Hotel Network** — **2,000,000**+ properties covering 200+
-Countries/Regions. **500**+ suppliers covering every tier, from luxury chains to local boutiques.
+✅ **Global Hotel Network** — **2,000,000**+ properties covering **200+**
+countries/regions. **500**+ suppliers covering every tier, from luxury chains to local boutiques.
 
 ✅ **Direct Contracts** — **110,000**+ directly connected hotels with live price and inventory sync.
 
