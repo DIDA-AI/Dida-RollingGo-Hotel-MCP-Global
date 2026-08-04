@@ -8,7 +8,7 @@
 
 🏠 [Apply Key](https://global.rollinggo.store/) · 🚀 [Quick Start](#-quick-start) · 📚 [Examples](#-usage-examples) · 💬 [Support](#-support) · 🔍 [Q&A](#-qa) · ✈ [Powered by Dida](https://www.dida.com) · 💰[Earn with RollingGo](https://global.rollinggo.store/docs/partnerdoc/partner1)
 
-This is an official MCP server empowers AI Agents to search, compare, and book **over 2 Million hotels globally**. Powered by DIDA (Asia's #1 and world's #3 B2B travel platform), this server bridges the gap between AI travel recommendations and real-world bookings.
+This is an official MCP server empowers AI Agents to search, compare, and book **over 2 Million hotels globally**. Powered by DIDA (14 years, world's #3 travel distribution platform), this server bridges the gap between AI travel recommendations and real-world bookings.
 
 | Service | Endpoint | Available Tools | Authentication |
 |---------|----------|-----------------|----------------|
